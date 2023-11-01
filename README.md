@@ -17,3 +17,6 @@
 ### Step 4: Application Running in App Service
 
 ![TBD](/Docs/step5.png)
+
+#### Configuration Settings
+![TBD](/Docs/step5.png)
