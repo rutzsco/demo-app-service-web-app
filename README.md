@@ -19,4 +19,4 @@
 ![TBD](/Docs/step5.png)
 
 #### Configuration Settings
-![TBD](/Docs/step5.png)
+![TBD](/Docs/step6.png)
